@@ -6,13 +6,6 @@ using System.Threading.Tasks;
 
 namespace BubbleShortReraTugas
 {
-    class BubbleShort
-    {
-        public void Display()
-        {
-
-        }
-    }
     internal class Program
     {
         static void Main(string[] args)
